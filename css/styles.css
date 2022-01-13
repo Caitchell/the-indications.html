@@ -62,6 +62,10 @@
   box-sizing: border-box;
 }
 
+.important {
+  font-style:italic
+}
+
 .sidebar {
   width: 60%;
   float: left;
